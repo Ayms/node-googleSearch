@@ -1,11 +1,11 @@
 node-googleSearch
 ===
 
-Node.js implementation of Google Search using https://github.com/Nais/node-dom/
+Node.js implementation of Google Search AJAX API using https://github.com/Nais/node-dom/
 
 ## Purpose:
 
-Server side implementation of Google Search, see https://github.com/Nais/node-bot/ for example of use
+Server side implementation of Google Search, see https://github.com/Nais/node-bot/ for examples of use
 
 ## Install :
 
