@@ -39,7 +39,7 @@ or
 
 	googleSearch(params,response);
 ````
-### As a server :
+### As a server or an API :
 	
 ````
 	var http = require('http'),  
@@ -93,11 +93,11 @@ The output is an Array of :
 
 See Google Search documentation
 	
-## Tests :
+## Tests and API use :
 
 See https://github.com/Nais/node-bot
 
-Naïs server : http://213.246.53.127:1341/googlesearch?params
+Naïs server : http://213.246.53.127:1341/googlesearch?search=nais&name=company
 
 See tests.txt in ./test
 
