@@ -1,11 +1,11 @@
 node-googleSearch
 ===
 
-Node.js implementation of Google Search AJAX API using https://github.com/Nais/node-dom/
+Node.js implementation of Google Search AJAX API using https://github.com/Ayms/node-dom/
 
 ## Purpose:
 
-Server side implementation of Google Search, see https://github.com/Nais/node-bot/ for examples of use
+Server side implementation of Google Search, see https://github.com/Ayms/node-bot/ for examples of use
 
 ## Install :
 
@@ -13,7 +13,7 @@ Server side implementation of Google Search, see https://github.com/Nais/node-bo
 
 or
 
-    git clone http://github.com/Nais/node-googleSearch.git
+    git clone http://github.com/Ayms/node-googleSearch.git
     cd node-googleSearch
     npm link .
 
@@ -95,9 +95,9 @@ See Google Search documentation
 	
 ## Tests and API use :
 
-See https://github.com/Nais/node-bot
+See https://github.com/Ayms/node-bot
 
-Naïs server : http://213.246.53.127:1341/googlesearch?search=nais&name=company
+Naïs server : http://213.246.53.127:1341/googlesearch?search=Ayms&name=company
 
 See tests.txt in ./test
 
