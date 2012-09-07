@@ -97,7 +97,7 @@ See Google Search documentation
 
 See https://github.com/Ayms/node-bot
 
-Naïs server : http://213.246.53.127:1341/googlesearch?search=Ayms&name=company
+More to come, watch https://github.com/Ayms/node-Tor
 
 See tests.txt in ./test
 
